@@ -1,16 +1,20 @@
-## Hi there 👋
+# Guilherme Cúrcio
 
-<!--
-**GuilhermeCurcioBR/GuilhermeCurcioBR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor Full Stack em formação, em transição de carreira após 12 anos
+de experiência em gestão administrativa e análise de dados.
 
-Here are some ideas to get you started:
+Atualmente focado na stack JavaScript (Node.js, React e TypeScript),
+infraestrutura Linux e Docker, com ênfase em automação de processos,
+organização de código e boas práticas de desenvolvimento.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contexto profissional
+Minha experiência anterior em ambientes empresariais contribuiu para
+uma visão analítica, disciplina e foco em eficiência — competências
+que hoje aplico no desenvolvimento de software.
+
+## Em desenvolvimento
+- JavaScript / TypeScript
+- Node.js
+- React
+- Linux e Docker
+- Git e GitHub
