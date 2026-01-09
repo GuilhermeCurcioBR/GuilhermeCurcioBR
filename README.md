@@ -1,4 +1,4 @@
-# Olá, eu sou o Guilherme Cúrcio! 👋
+# Olá, eu sou o Guilherme Cúrcio! 👋[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermecúrcio/)
 
 <div align="center">
   <a href="https://guilhermecurciobr.github.io/portfolio/">
@@ -7,7 +7,7 @@
 </div>
 
 > **Desenvolvedor Full Stack em formação**, em transição de carreira após 12 anos de experiência em gestão administrativa e análise de dados.
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermecúrcio/)
+
 ---
 
 ### 🌐 Conheça meu novo Portfólio:
