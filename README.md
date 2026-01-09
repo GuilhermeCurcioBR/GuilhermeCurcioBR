@@ -1,4 +1,4 @@
-# Olá, eu sou o Guilherme Cúrcio! 👋[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermecúrcio/)
+# Olá, eu sou o Guilherme Cúrcio! 👋
 
 <div align="center">
   <a href="https://guilhermecurciobr.github.io/portfolio/">
@@ -21,7 +21,7 @@ organização de código e boas práticas de desenvolvimento.
 Minha experiência anterior em ambientes empresariais contribuiu para
 uma visão analítica, disciplina e foco em eficiência — competências
 que hoje aplico no desenvolvimento de software.
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermecúrcio/)
 ### 🚀 Em desenvolvimento
 
 | Categoria | Tecnologias |
