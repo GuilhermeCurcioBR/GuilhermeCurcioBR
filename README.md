@@ -1,4 +1,4 @@
-# Olá, eu sou o Guilherme Cúrcio! 👋
+# Olá, eu sou o Guilherme Curcio! 👋
 
 <div align="center">
   <a href="https://guilhermecurciobr.github.io/portfolio/">
